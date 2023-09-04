@@ -62,3 +62,4 @@ ansible-lint was created by [Will Thames] and is now maintained as part of the
 [ansible-lint-action]:
   https://ansible-lint.readthedocs.io/installing/#installing-from-source-code
 # ansible-lint
+# ansible-lint
